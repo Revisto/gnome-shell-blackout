@@ -1,0 +1,8 @@
+<schemalist>
+  <schema id="org.gnome.shell.extensions.blackout" path="/org/gnome/shell/extensions/blackout/">
+    <key name="toggle-key" type="as">
+      <default><![CDATA[['<Super><Shift>b']]]></default>
+      <summary>Toggle blackout overlay</summary>
+    </key>
+  </schema>
+</schemalist>

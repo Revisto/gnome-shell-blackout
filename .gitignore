@@ -1,0 +1,9 @@
+# Compiled GSettings schema (rebuild with glib-compile-schemas schemas/)
+schemas/gschemas.compiled
+
+# Editor / OS junk
+*~
+*.swp
+.DS_Store
+.idea/
+.vscode/
